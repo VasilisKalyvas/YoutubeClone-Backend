@@ -23,7 +23,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
     cors({
-      origin: ["https://mern-clonetube-app.herokuapp.com/"],
+      origin: ["https://inquisitive-horse-f72147.netlify.app/"],
       methods: ["GET", "POST","PUT", "DELETE"],
       credentials: true,
     })
