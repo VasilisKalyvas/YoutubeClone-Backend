@@ -73,7 +73,7 @@ let users = [];
 var count = 0;
 const io = new Server(server, {
     cors: {
-      origin: "http://localhost:3000",
+      origin: "https://mern-clonetube-app.herokuapp.com/",
     },
   });
 
