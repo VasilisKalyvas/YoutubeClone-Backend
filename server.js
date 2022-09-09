@@ -73,7 +73,7 @@ let users = [];
 var count = 0;
 const io = new Server(server, {
     cors: {
-      origin: 'https://classy-cendol-b9dde5.netlify.app/',
+        origin: '*',
     },
   });
 
