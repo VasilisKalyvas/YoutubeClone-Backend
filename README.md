@@ -8,19 +8,19 @@ Build with Mern stack(Reactjs, Expressjs, Nodejs, MongoDb), JWT, Cookies, Redux,
 
 FEATURES:
 
-Login/Register/Logout.
-Crud operations of videos.
-Upload Video to Firebase with thumbnail picture.
-Like/Dislike Videos.
-Comment Videos.
-Views of Video.
-Subscribe/Unsubscribe user.
-Real-Time Notifications with Socket.io.
-Number of Online Users.
-View Current User's Subscribers.
-View Current User's Subscriptions.
-View Trends (Most Viewed Videos).
-View Subscriptions Videos.
-Explore with random Videos.
+1. Login/Register/Logout.
+2. Crud operations of videos.
+3. Upload Video to Firebase with thumbnail picture.
+4. Like/Dislike Videos.
+5. Comment Videos.
+6. Views of Video.
+7. Subscribe/Unsubscribe user.
+8. Real-Time Notifications with Socket.io.
+9. Number of Online Users.
+10. View Current User's Subscribers.
+11. View Current User's Subscriptions.
+12. View Trends (Most Viewed Videos).
+13. View Subscriptions Videos.
+14. Explore with random Videos.
 
 
