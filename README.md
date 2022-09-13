@@ -1,8 +1,7 @@
+Youtube-Clone App
 
-Youtube-Clone
-
-Frontend Repository : https://github.com/VasilisKalyvas/YoutubeClone-Frontend
-Backend Repository : https://github.com/VasilisKalyvas/YoutubeClone-Backend
+* Frontend Repository : https://github.com/VasilisKalyvas/YoutubeClone-Frontend
+* Backend Repository : https://github.com/VasilisKalyvas/YoutubeClone-Backend
 
 Build with Mern stack(Reactjs, Expressjs, Nodejs, MongoDb), JWT, Cookies, Redux, Redux-Toolkit, Socket.io, Firebase.
 
